@@ -9,5 +9,14 @@
       "/Mining-Dutch/"
     ],
     "link": "https://www.mining-dutch.nl/index.php"
+  },
+  {
+    "id": 2,
+    "name": "ViaBTC",
+    "addresses": [
+      "L64Y1gteXGRcumetrUE79nHkhzFgFnATzS"
+    ],
+    "tags": [],
+    "link": "https://www.viabtc.com/"
   }
 ]
